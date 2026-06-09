@@ -1,5 +1,6 @@
 # Embedded_System_Intro
 - 課號	ESOE 5156
+- 授課教師	陳昭宏 教授
 - 學年  2026 FALL
 - 課程辨識碼	525 U9110
 ## Board
