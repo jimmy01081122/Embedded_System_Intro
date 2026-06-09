@@ -1,0 +1,13 @@
+main.c:71:19:ADXL345_I2C_WriteReg	32	static
+main.c:82:9:ADXL345_I2C_ReadReg	40	static
+main.c:105:19:ADXL345_I2C_MemWrite	32	static
+main.c:112:9:ADXL345_I2C_MemRead	32	static
+main.c:122:19:ADXL345_I2C_ReadMulti	24	static
+main.c:129:6:ADXL345_I2C_Init	16	static
+main.c:151:6:ADXL345_I2C_ReadXYZ	24	static
+main.c:166:6:Debug_I2C_Error	96	static
+main.c:188:6:Debug_SprintfExample	80	static
+main.c:194:6:Debug_PrintXYZ	160	static
+main.c:321:6:SystemClock_Config	160	static
+main.c:268:5:main	48	static
+main.c:477:6:_Error_Handler	0	static

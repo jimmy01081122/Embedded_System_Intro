@@ -1,0 +1,10 @@
+main.c:74:6:ADXL345_WriteReg	16	static
+main.c:86:9:ADXL345_ReadReg	24	static
+main.c:105:6:ADXL345_3W_ReadMulti	32	static
+main.c:125:6:ADXL345_ReadXYZ	120	static
+main.c:143:6:Debug_SprintfExample	80	static
+main.c:148:6:Debug_PrintXYZ	160	static
+main.c:202:6:Test_ADXL345_3W_ID	112	static
+main.c:316:6:SystemClock_Config	160	static
+main.c:260:5:main	48	static
+main.c:473:6:_Error_Handler	0	static
